@@ -2,7 +2,7 @@
 
 Welcome! This is the public GitHub organization for Nationdex Development.
 
-## What We Do
+## What we do?
 
-- 🇺🇳 [Nationdex](https://github.com/Aram-Development/Nationdex-AA) - A unique BallsDex fork that aims to give best user experience without limitations, with over 100 nations to catch!
-> You can join the [Nationdex HQ](https://discord.gg/Qn2Rkdkxwc) Discord server to get news about the bot, join giveaways, chat with out community and more!
+- 🇺🇳 [Nationdex](https://github.com/Aram-Development/Nationdex-AA) - A unique Ballsdex fork that aims to give best user experience without limitations, with over 100 nations to catch!
+> You can join the [Nationdex HQ](https://discord.gg/Qn2Rkdkxwc) Discord server to get news about the bot, join giveaways, chat with out community, and more!
